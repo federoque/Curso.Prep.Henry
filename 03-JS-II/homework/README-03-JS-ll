@@ -1,0 +1,8 @@
+for: el bucle "for" es una estructura de control donde el programador indica el número de iteraciones que desea que se repita el codigo encerrado en el mismo. Es decir, se da el valor de entrada de una variable, luego el valor de la misma para que el bucle se detenga y su incremento en cada iteracion. 
+El bucle repetirá las lineas de código en cada iteracion, hasta que el valor de la variable llegue a su punto de salida y de por finalizado el bucle.
+
+&& : la operacion lógica && ("y" o "and") da por resultado un valor booleano: Será verdadero (o true) en el caso que el valor de ambos operandos sea verdadero. En el caso de que alguno de los operandos sea falso, el resultado de la operacion también será falso.
+
+|| : la operacion lógica || ("o" u "or") da por resultado un valor booleano: Será verdadero (o true) en el caso de que el valor de al menos uno de los operandos sea verdadero. Sólo dará falso por resultado si el valor de ambos operandos es falso.
+
+! : El operador lógico de negacion (not) da por resultado el valor contrario que tiene el operando. Si el operando tiene un valor true, su negación sera false. Por el contario, si el valor del operando es false, su negacio será true.
