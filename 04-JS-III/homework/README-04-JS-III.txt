@@ -1,0 +1,1 @@
+ARRAY: Un array o arreglo es un un contenedor que almacena datos. Es una especie de lista de datos con ciertas propiedades especificas.
