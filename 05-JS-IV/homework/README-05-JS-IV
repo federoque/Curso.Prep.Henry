@@ -1,0 +1,9 @@
+Objetos: Son elementos que poseen ciertas propiedades, donde cada una de estas es definida teniendo un nombre y un valor.
+
+Propiedades: Las propiedades son los elementos que caracterizan al objeto. Estas tienen un nombre (ej: Nombre, edad, nacionalidad, etc) y un valor.
+
+Metodos: Las propiedades de un objeto que tienen como valor una función son denominadas Métodos.
+
+Bucle for..in : Es un bucle que tiene el objetivo de recorrer los elementos del objeto. Es similar al for que se utiliza para arrays pero con la diferencia que aquí los indices no son numéricos, por lo tanto no se puede acceder a ellos mediante números.
+
+Notación de puntos vs notacion de corchetes: Ambas sirven para acceder o asignar valores a las propiedades del objeto. La diferencia principal es que mediante la notación de puntos es un acceso mucho mas facil porque simplemente se coloca el nombre del objeto, un punto y el nombre de la propiedad. En cambio, mediante la notacion de corchetes es mas dificil el tipeado ya que se deben utilizar corchetes y el valor de la propiedad entre comillas si es un string o sin comillas si es una varibale (solo pueden utilizarse variables entre corchetes. La notacion de punto toma literalmente lo que va despues del punto).
