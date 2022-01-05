@@ -1,0 +1,4 @@
+Prototipo: Es un mecanismo para que los objetos hereden las propiedades y los metodos de un objeto "padre". Es como una especie de plantilla donde todos los objetos que creamos heredan sus propiedades. 
+En vez de repetir las propiedades y los metodos para cada objeto (un desperdicio de recursos) se asignan a un prototipo y cada vez que instanciamos un objeto, este "hereda" los atributos y los métodos de su prototipo.
+
+Constructors (de clases): El metodo constructor es una función que se invoca para iniciar un objeto a partir de una clase.
