@@ -36,7 +36,7 @@ function numberOfCharacters(string) {
   for(i=0;i< string.length; i++){            
     for(j=0;j<string.length;j++){
         if(string.charAt(j)==string.charAt(i) && objeto[string.charAt(i)][1]==0){
-           objeto[string.charAt(i)][0]= objeto[string.charAt(i)][0] + 1 ;
+          objeto[string.charAt(i)][0]= objeto[string.charAt(i)][0] + 1 ;
     }  
   }
   objeto[string.charAt(i)][1] = 1
@@ -165,10 +165,10 @@ function sortArray(arr) {
   //Escribe tu código aquí
 
   let a ;
-  let arreglo = []
-  for(i=0; i<arr.length; i++){
-      arreglo.push(arr[i])
-  }
+  let arreglo = [...arr]
+  // for(i=0; i<arr.length; i++){
+  //     arreglo.push(arr[i])
+  // }
 
   for (i=0; i<arreglo.length ; i++){
     for(j=i; j<arreglo.length; j++){
